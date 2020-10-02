@@ -1,4 +1,4 @@
-<h2> Wifi_buffer_Solve</h2>
+<h2> Wifi_Buffer_Solve</h2>
 
 <h4>Author : RKT</h4>
 
