@@ -6,7 +6,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/69615463/94889283-39bb0f80-0499-11eb-8bde-403e8dd9d022.gif)
 
-In the modern time,wifi buffering problem is common problem in our life.when we can take broadbrand line in our home.At First time,its provide us good service.After few days we can face buffering problem.How to slove it?I have a idea to solve this problem.It is server data or packet loss problem.when we can ping the wifi gateway ip and reconnect our device in our wifi.In this time,our problem is solve.Our net speed is good.we can face no buffering.I have create a python script.This script can help to get increase wifi speed and no buffering.
+In the modern time,wifi buffering problem is common problem in our life.when we can take broadbrand line in our home.At first time,its provide us good service.After few days we can face buffering problem.How to slove it?I have a idea to solve this problem.It is server data or packet loss problem.when we can ping the wifi gateway ip and reconnect our device in our wifi.In this time,our problem is solve.Our net speed is good.We can face no buffering.I have create a python script.This script can help to get increase wifi speed and no buffering.
 
 ### what is ping ? ###
 
