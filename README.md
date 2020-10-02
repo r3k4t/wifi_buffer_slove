@@ -1,4 +1,4 @@
-<h2> Wifi Password Recovery</h2>
+<h2> Wifi_buffer_Solve</h2>
 
 <h4>Author : RKT</h4>
 
@@ -21,7 +21,7 @@ The command-line options of the ping utility and its output vary between the num
 ### Linux Terminal Command ###
 
 <ul>
-<li>git clone https://github.com/r3k4t/wifi_buffer_slove.git<li>
+<li>git clone https://github.com/r3k4t/wifi_buffer_slove.git</li>
 <li>cd  wifi_buffer_solve</li>
 <li>sudo python check_gateway.py</li>
 
