@@ -28,6 +28,7 @@ The command-line options of the ping utility and its output vary between the num
 ![Screenshot at 2020-10-02 10-00-03](https://user-images.githubusercontent.com/69615463/94888443-c2847c00-0496-11eb-93b9-b7524400f967.png)
 
 <li>sudo python wifi_buffer_slove.py</li>
+
 ![Screenshot at 2020-10-02 10-16-28](https://user-images.githubusercontent.com/69615463/94889036-83efc100-0498-11eb-8c71-dfe552d1ca70.png)
 
 ![Screenshot at 2020-10-02 10-17-03](https://user-images.githubusercontent.com/69615463/94889074-99fd8180-0498-11eb-9f93-e6bf3caf15d2.png)
