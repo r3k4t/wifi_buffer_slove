@@ -22,8 +22,8 @@ The command-line options of the ping utility and its output vary between the num
 
 <ul>
 <li>git clone https://github.com/r3k4t/wifi_buffer_slove.git<li>
-<li>cd  wifi_buffer_solve<li>
-<li>sudo python check_gateway.py<li>
+<li>cd  wifi_buffer_solve</li>
+<li>sudo python check_gateway.py</li>
 
 ![Screenshot at 2020-10-02 10-00-03](https://user-images.githubusercontent.com/69615463/94888443-c2847c00-0496-11eb-93b9-b7524400f967.png)
 
